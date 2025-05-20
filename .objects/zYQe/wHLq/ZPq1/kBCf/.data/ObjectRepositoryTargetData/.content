@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ml58k6g6BUKadL9jNyGjCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nadirkitap.com/kitap-ara.html" CVScreenId="59da6d83-a144-410c-8cc4-3b44b3c71df2" CvElementArea="1078, 940, 57, 37" CvTextArea="1090, 951, 32, 13" CvTextArgument="ARA" CvType="Button" DesignTimeRectangle="1079, 941, 55, 36" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='searchbook' tag='BUTTON' type='submit' class='btn btn-default btn-brd' aaname='ARA' check:innerText='ARA' /&gt;" Guid="36826484-df39-4105-b1e4-f139a2d21958" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kitap Arama Sayfası: İkinci El Kitap, Yeni Kitap, Dergi, Efemera - NADİR KİTAP' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="14fade832753ad81ad6496df9ee368cc.png" xmlns="">0R5V-hYW81E64mz0TMDppPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

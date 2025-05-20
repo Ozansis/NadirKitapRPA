@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Yayınevi",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "90_CM0ZMyUavnwkRvavrHw",
+  "Reference": "YDdbIBoEPUyd-bfsHHfDVA/90_CM0ZMyUavnwkRvavrHw",
+  "ParentRef": "YDdbIBoEPUyd-bfsHHfDVA/ZPq12DfaAEGytbPjrmRo9Q",
+  "Created": "2025-04-07T14:50:04.9608784Z",
+  "Updated": "2025-04-07T14:50:04.9608784Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

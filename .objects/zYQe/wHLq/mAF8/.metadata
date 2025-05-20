@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome NADİR KİTAP - Aradığınız kitabın adres",
+  "Type": "Screen",
+  "Id": "mAF8h4Ic8k-H_IUrKJSO-g",
+  "Reference": "YDdbIBoEPUyd-bfsHHfDVA/mAF8h4Ic8k-H_IUrKJSO-g",
+  "ParentRef": "YDdbIBoEPUyd-bfsHHfDVA/wHLqEgCUE0ON2tjj2vMfjA",
+  "Created": "2025-04-08T11:11:41.5324824Z",
+  "Updated": "2025-04-08T11:11:41.5324824Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

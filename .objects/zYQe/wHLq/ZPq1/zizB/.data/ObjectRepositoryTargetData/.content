@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UD3I_PuoUUqomnnZNbEL5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nadirkitap.com/simyaci-paulo-coelho-kitap41599891.html" DesignTimeRectangle="1269, 461, 261, 178" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl class='content' tag='DIV' type='' aaname='Mama Kitabevi tüm Türkiye&amp;apos;ye  anlaşması ile gönderim yapmaktadır;Tek kitap kargo ücreti: (KDV dahil) 2 ve daha fazla kitap:    (Adet limiti olmaksızın, KDV dahil)             ' /&gt;" Guid="9eac9a3d-1a84-48aa-94a5-6e3852d84af6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Simyacı - Paulo Coelho | Nadir Kitap' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="468799992e73f01eb3f1e3b168e6767e.png" xmlns="">0QBPWl5sZ10-2FzmWQ9sfxw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

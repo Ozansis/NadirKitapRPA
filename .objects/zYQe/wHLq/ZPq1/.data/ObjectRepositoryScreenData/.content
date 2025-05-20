@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="iKXeiz1OtkOkO2HS3GI47w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1056" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEgAACxIB0t1+/AAAAitJREFUWEftlk1LW0EYhRNFsWJaqFKycafiyoVI251KUfoPunHRHyC4EMRC9UeomyriuqAgKO67r1Uibak7NxbaQhX8QOyH50zeuZw7uSQ3fhCQHHhw5rzvzBzIOEmmrmo0n8+3gc9gG2TN+w7+C8eg1S24bWHjbjmozbwL8TztbsFtCxv3yCE582oW4IF5NQvQbF49QD3APQiABc/APvgLCmDQSjHBv7MAu8EGZ6DXypHgXTsAPD7jn8AhKJhdFIw/INzkI2iyFifMbxJgQerTZhclhZA31uKE+bUCYN4Fzq32DbRYqSgrJHEJ+qztJgG2pFZ6v6SYBC+lP6zqABiPgn/mL5kdlxXJhIyVGeurKgD+ZsFX8355v0TWQHjAmsw9vKT9oNoAU+KN00uUNPGAJ+BIPM8X0CfzsgHAY/BbvE13WJKkqcfmk+IpBzKuFGAx8MgQ15RIGnyABrAjfhKVAmwEHtkDjVwXkzS4ABTGTwGfZt1AqRRgACStH3MHqKQYBaAwX5ZaSJpL+D7wyQ/gfk9GkmIYIAf4dusGnjQB8uBUfM9b1iNJIRaAgvdK6krFABTGc0GN8FnutJbyASj469LjSRuA9+FEap4Va0kVoAP8lD5ergarlQ1AYf4uqBM+z/2+YRzMAvdbP0mojQD/ea6aTT/pM35kZSfMHwI+ZGHfB2tJJyzoBAwSfZ1izH83fuEM29/nVooJPi8079Nr8BJwnxdWrpUymSu3OBEkUKo7BAAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Kitap Arama Sayfası: İkinci El Kitap, Yeni Kitap, Dergi, Efemera - NADİR KİTAP' /&gt;" Url="https://www.nadirkitap.com/kitap-ara.html" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="78ea4902d5dc204ccbba360142a8234c.jpg" xmlns="">0HU1o9_eiYkK4V7LSGGT-7A</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

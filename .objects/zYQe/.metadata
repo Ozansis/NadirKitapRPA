@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Kitap Arama Sayfası İkinci El Kitap, Yeni Kitap, Dergi, Efemera - NADİR KİTAP",
+  "Type": "App",
+  "Id": "zYQe1pl4pkK5DCneFgF6xQ",
+  "Reference": "YDdbIBoEPUyd-bfsHHfDVA/zYQe1pl4pkK5DCneFgF6xQ",
+  "Created": "2025-04-07T14:47:43.2545515Z",
+  "Updated": "2025-04-07T14:47:43.2545515Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Kitap Arama Sayfası İkinci El Kitap, Y",
+  "Type": "Screen",
+  "Id": "ZPq12DfaAEGytbPjrmRo9Q",
+  "Reference": "YDdbIBoEPUyd-bfsHHfDVA/ZPq12DfaAEGytbPjrmRo9Q",
+  "ParentRef": "YDdbIBoEPUyd-bfsHHfDVA/wHLqEgCUE0ON2tjj2vMfjA",
+  "Created": "2025-04-07T14:47:43.2908916Z",
+  "Updated": "2025-04-07T14:47:43.2908916Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

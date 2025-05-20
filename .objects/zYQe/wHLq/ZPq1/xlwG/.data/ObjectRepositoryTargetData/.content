@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EPpBm7Nx-EafxVLWYDrlOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nadirkitap.com/kitap-ara.html" CVScreenId="a26d6117-bafc-417c-8dbf-6d5e20518466" CvElementArea="718, 454, 375, 38" CvType="InputBox" DesignTimeRectangle="719, 455, 373, 36" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='exampleInputBookName' tag='INPUT' type='bookname' class='form-control' aaname='Kitap Adı :' /&gt;" Guid="322ac767-3d85-4dcd-a839-14e2105b5215" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kitap Arama Sayfası: İkinci El Kitap, Yeni Kitap, Dergi, Efemera - NADİR KİTAP' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a26d6117-bafc-417c-8dbf-6d5e20518466" CvTextArea="718, 434, 56, 14" CvTextArgument="Kitap Adı :" CvType="Text" DesignTimeRectangle="719, 433, 55, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Kitap Adı :' check:innerText='Kitap Adı :' /&gt;" Guid="e7a0b757-2deb-45bc-8244-46bb65c8e868" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="05bb94bc909dd2ac28e785021e4b23c7.png" xmlns="">0KHooGHHw8UmQcTpaqu_PSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

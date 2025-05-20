@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Kitap Adı",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "xlwGtP7es0uSX1G_Skk99A",
+  "Reference": "YDdbIBoEPUyd-bfsHHfDVA/xlwGtP7es0uSX1G_Skk99A",
+  "ParentRef": "YDdbIBoEPUyd-bfsHHfDVA/ZPq12DfaAEGytbPjrmRo9Q",
+  "Created": "2025-04-07T14:48:04.9292631Z",
+  "Updated": "2025-04-07T14:48:04.9292631Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

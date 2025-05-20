@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Yeni  İkinci El",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "vIJdfw_Hjk-r1xHHzYGg1A",
+  "Reference": "YDdbIBoEPUyd-bfsHHfDVA/vIJdfw_Hjk-r1xHHzYGg1A",
+  "ParentRef": "YDdbIBoEPUyd-bfsHHfDVA/ZPq12DfaAEGytbPjrmRo9Q",
+  "Created": "2025-04-07T14:55:50.2670647Z",
+  "Updated": "2025-04-07T14:55:50.2670647Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
